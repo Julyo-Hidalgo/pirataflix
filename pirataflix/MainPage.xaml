@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pirataflix.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>     
+        </Grid.ColumnDefinitions>
+
+        <Image x:Name="logo" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+
+        <Button Text="Ação" Grid.Row="1" Grid.Column="0"/>
+        <Button Text="Aventura" Grid.Row="1" Grid.Column="1"/>
+        <Button Text="Marvel" Grid.Row="2" Grid.Column="0" Clicked="Button_Clicked"/>
+        <Button Text="Terror" Grid.Row="2" Grid.Column="1"/>
+    </Grid>
+
+</ContentPage>

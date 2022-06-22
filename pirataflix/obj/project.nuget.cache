@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SzeKRuZUpjy7BuxFIok8qY1KW/h4uy4KHmKUYBuFyLvYZ1I8I0oyZm9tONvizDLKDcO0QY9P9w2e0C8h0OaJ+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julyo\\OneDrive - Etec Centro Paula Souza\\pirataflix\\pirataflix\\pirataflix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julyo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\julyo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\julyo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\julyo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\julyo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
